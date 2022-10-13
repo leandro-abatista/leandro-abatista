@@ -1,11 +1,13 @@
 ### Olá, sou Leandro Amorim, desenvolvedor fullstack 👋
 
+#### Apaixonado por tecnologia, solucionar problemas e novos desafios. 💻📚
+
 #### Minhas Redes
 
 <div style="display="inline_block">
-    <a href=""><img align="center" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
-    </a href=""><img align="center" alt="" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="30" /></a>
-    </a href=""><img align="center" alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+    <a title="Github" href="https://github.com/leandro-abatista/"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" /></a>
+    <a title="Gitlab" href="https://gitlab.com/"><img align="center" alt="" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="30" /></a>
+    <a title="Linkedin" href="https://www.linkedin.com/in/leandro-amorim-batista/"><img align="center" alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
 </div>
 <br>
 
